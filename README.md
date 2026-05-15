@@ -1,25 +1,24 @@
-# Hola, soy Karla 👩‍💻
+# Hi, I'm Karla 👩‍💻
 
-Ingeniera en Desarrollo de Software enfocada en análisis de datos y machine learning.
+Software Engineer focused on Data Analytics and Data Science with Python.
 
-## 🧠 Actualmente
-- Google Cloud Data Analytics (en curso)
-- Ciencia de Datos con Python (en curso)
+## 🧠 Currently learning
+- Google Cloud Data Analytics (in progress)
+- Introduction to Data Science with Python (in progress)
 
-## 🚀 Proyecto destacado
-### Predicción de retorno de clientes
-Modelo de Machine Learning para identificar clientes con probabilidad de regresar.
+## 🚀 Featured Project
+### Customer Retention Prediction
+Machine Learning model to predict whether a customer will return.
 
 **Stack:**
 - Python (Pandas, Scikit-learn)
-- Análisis exploratorio de datos
-- Modelado predictivo
+- Exploratory Data Analysis
+- Predictive Modeling
 
-🔗 [Ver proyecto](https://github.com/karla-roman/customer-retention-prediction)
+🔗 https://github.com/karla-roman/customer-retention-prediction
 
-## 🛠️ Tecnologías
+## 🛠️ Tech
 Python | SQL | Pandas | Scikit-learn | Git
 
-## 📫 Contacto
-- GitHub: (https://github.com/karla-roman)
-- LinkedIn: (www.linkedin.com/in/karlaroman059)
+## 📫 Contact
+- GitHub: https://github.com/karla-roman
