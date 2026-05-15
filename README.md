@@ -15,11 +15,11 @@ Modelo de Machine Learning para identificar clientes con probabilidad de regresa
 - Análisis exploratorio de datos
 - Modelado predictivo
 
-🔗 [Ver proyecto](LINK_A_TU_REPO)
+🔗 [Ver proyecto](https://github.com/karla-roman/customer-retention-prediction)
 
 ## 🛠️ Tecnologías
 Python | SQL | Pandas | Scikit-learn | Git
 
 ## 📫 Contacto
-- GitHub: https://github.com/TU_USUARIO
-- LinkedIn: (opcional)
+- GitHub: (https://github.com/karla-roman)
+- LinkedIn: (www.linkedin.com/in/karlaroman059)
