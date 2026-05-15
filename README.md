@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Karla 👩‍💻
 
-<!--
-**karla-roman/karla-roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniera en Desarrollo de Software enfocada en análisis de datos y machine learning.
 
-Here are some ideas to get you started:
+## 🧠 Actualmente
+- Google Cloud Data Analytics (en curso)
+- Ciencia de Datos con Python (en curso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyecto destacado
+### Predicción de retorno de clientes
+Modelo de Machine Learning para identificar clientes con probabilidad de regresar.
+
+**Stack:**
+- Python (Pandas, Scikit-learn)
+- Análisis exploratorio de datos
+- Modelado predictivo
+
+🔗 [Ver proyecto](LINK_A_TU_REPO)
+
+## 🛠️ Tecnologías
+Python | SQL | Pandas | Scikit-learn | Git
+
+## 📫 Contacto
+- GitHub: https://github.com/TU_USUARIO
+- LinkedIn: (opcional)
